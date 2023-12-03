@@ -38,7 +38,7 @@
 - Non-Contrasting Sort
     - Bucket Sort
     - Counting Sort
-    - Base Sort
+    - Radix Sort
 - Selection Sort
     - Heap Sort
     - Selection Sort
